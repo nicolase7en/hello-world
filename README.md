@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Roses are Red,
+Violets are Blue
+
+Unexpected '{'
+on line 32.
